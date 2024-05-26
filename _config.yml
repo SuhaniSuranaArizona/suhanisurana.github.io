@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Suhani Surana"
+title                    : "Suhani's Homepage"
 title_separator          : "-"
 name                     : &name "Suhani Surana"
 description              : &description "personal description"
@@ -22,28 +22,28 @@ repository               : "SuhaniSuranaArizona/suhanisurana.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Suhani Surana"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "An Astronomy, Physics and Computer Science Undergrad at the University of Arizona"
+  location         : "Tucson, Arizona, United States"
+  employer         : "University of Arizona"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "suhanisurana@arizona.edu" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  #arxiv            : # URL - Update with the correct link to your profile
+  #googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  #impactstory      : # URL
+  #orcid            : "http://orcid.org/yourorcidurl"
+  #semantic         : # URL
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "SuhaniSuranaArizona"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "suhani-surana-8412a4131"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
