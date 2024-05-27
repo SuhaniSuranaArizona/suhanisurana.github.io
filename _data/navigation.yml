@@ -2,7 +2,7 @@
 main:
 
   - title: "Research"
-    url: /research/
+    url: /portfolio/
 
   - title: "Talks and Presentations"
     url: /talks/    
@@ -20,6 +20,6 @@ main:
     url: /cv/
     
   - title: "About Me"
-    url: /AboutMe/
+    url: /markdown/
  #- title: "Guide"
   #  url: /markdown/
